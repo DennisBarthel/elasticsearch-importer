@@ -1,0 +1,81 @@
+<instruments>
+	<instrument isin="DE000A1EWWW0" ticker="" name="Adidas" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0008404005" ticker="" name="Allianz" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000BASF111" ticker="" name="BASF" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000BAY0017" ticker="" name="Bayer" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005200000" ticker="" name="Beiersdorf" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005190003" ticker="" name="BMW" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005439004" ticker="" name="Continental" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0006062144" ticker="" name="Covestro" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0007100000" ticker="" name="Daimler" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005140008" ticker="" name="Deutsche Bank" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005810055" ticker="" name="Deutsche Börse" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005552004" ticker="" name="Deutsche Post" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005557508" ticker="" name="Deutsche Telekom" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000ENAG999" ticker="" name="E.ON" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005785604" ticker="" name="Fresenius" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0005785802" ticker="" name="Fresenius Medical Care" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0006047004" ticker="" name="HeidelbergCement" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0006048432" ticker="" name="Henkel VZ." country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0006231004" ticker="" name="Infineon" country="DE" symbolType="STOCK"/>
+	<instrument isin="IE00BZ12WP82" ticker="" name="Linde" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0008232125" ticker="" name="Lufthansa" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0006599905" ticker="" name="Merck" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A0D9PT0" ticker="" name="MTU Aero Engines" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0008430026" ticker="" name="Munich RE" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0007037129" ticker="" name="RWE" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0007164600" ticker="" name="SAP" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0007236101" ticker="" name="Siemens" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0007664039" ticker="" name="Volkwagen VZ." country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A1ML7J1" ticker="" name="Vonovia" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE0007472060" ticker="" name="Wirecard" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A0BVU28" ticker="" name="USU Software" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000TUAG000" ticker="" name="TUI" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000SHL1006" ticker="" name="Siemens Healthineers" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A0D6554" ticker="" name="Nordex" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A0L1H32" ticker="" name="MPH Health Care" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A0L1NN5" ticker="" name="Heliad Equity Partners" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A1K0300" ticker="" name="euromicron" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000A0JBPG2" ticker="" name="PNE Wind" country="DE" symbolType="STOCK"/>
+	<instrument isin="DE000BAY1BR7" ticker="" name="Bayer Bezugsrechte" country="DE" symbolType="MIS"/>
+	<instrument isin="DE0005545503" ticker="" name="1&amp;1 Drillisch" country="DE" symbolType="STOCK"/>
+	<instrument isin="CH0038389992" ticker="" name="BB Biotech" country="CH" symbolType="STOCK"/>
+	<instrument isin="GB00BH0P3Z91" ticker="" name="BHP Group" country="GB" symbolType="STOCK"/>
+	<instrument isin="IE00BD1RP616" ticker="" name="Bank of Ireland Group" country="IRE" symbolType="STOCK"/>
+	<instrument isin="GB0002875804" ticker="" name="BAT" country="GB" symbolType="STOCK"/>
+	<instrument isin="GB0007908733" ticker="" name="SSE" country="GB" symbolType="STOCK"/>
+	<instrument isin="AU000000S320" ticker="" name="South32" country="AU" symbolType="STOCK"/>
+	<instrument isin="US7475251036" ticker="" name="Qualcomm" country="US" symbolType="STOCK"/>
+	<instrument isin="US74348T1025" ticker="" name="Prospect" country="US" symbolType="STOCK"/>
+	<instrument isin="US1912161007" ticker="" name="Coca-Cola" country="US" symbolType="STOCK"/>
+	<instrument isin="US7427181091" ticker="" name="Procter &amp; Gamble" country="US" symbolType="STOCK"/>
+	<instrument isin="GB00B03MLX29" ticker="" name="Shell (Royal Dutch Shell) (A)" country="GB" symbolType="STOCK"/>
+	<instrument isin="US30303M1027" ticker="" name="Facebook" country="US" symbolType="STOCK"/>
+	<instrument isin="US4592001014" ticker="" name="IBM" country="US" symbolType="STOCK"/>
+	<instrument isin="US5949181045" ticker="" name="Microsoft" country="US" symbolType="STOCK"/>
+	<instrument isin="CNE100000296" ticker="" name="BYD" country="CNE" symbolType="STOCK"/>
+	<instrument isin="CA8934631091" ticker="" name="TransAlta Renewables" country="CA" symbolType="STOCK"/>
+	<instrument isin="DE000A12UMG0" ticker="" name="PNE AG Wandelanleihe" country="GB" symbolType="BOND"/>
+	<instrument isin="IE00B66F4759" ticker="IHYG" name="iShares € High Yield Corp Bond UCITS ETF" country="IRE" symbolType="ETF"/>
+	<instrument isin="DE000A0H0744" ticker="EXXW" name="iShares Dow Jones Asia Pacific Select Dividend 30 UCITS ETF (DE)" country="DE" symbolType="ETF"/>
+	<instrument isin="DE0002635281" ticker="EXSG" name="iShares EURO STOXX Select Dividend 30 UCITS ETF (DE)" country="DE" symbolType="ETF"/>
+	<instrument isin="DE000A0Q4R02" ticker="EXH9" name="iShares STOXX Europe 600 Utilities UCITS ETF (DE)" country="DE" symbolType="ETF"/>
+	<instrument isin="DE0002635299" ticker="EXSH" name="iShares STOXX Europe Select Dividend 30 UCITS ETF (DE)" country="DE" symbolType="ETF"/>
+	<instrument isin="DE0002635273" ticker="EXSB" name="iShares DivDAX UCITS ETF (DE)" country="DE" symbolType="ETF"/>
+	<instrument isin="DE000A0F5UF5" ticker="EXXT" name="iShares NASDAQ-100 UCITS ETF (DE)" country="DE" symbolType="ETF"/>
+	<instrument isin="LU1670724373" ticker="" name="M&amp;G (Lux) Optimal Income Fund" country="LUX" symbolType="FUND"/>
+	<instrument isin="LU1670710075" ticker="" name="M&amp;G (Lux) Global Dividend Fund - EUR A Acc" country="LUX" symbolType="FUND"/>
+	<instrument isin="LU0208289198" ticker="" name="Warburg Value Fund A" country="LUX" symbolType="FUND"/>
+	<instrument isin="LU1864952335" ticker="" name="Threadneedle (Lux) European Smaller Companies 1E EUR acc" country="LUX" symbolType="FUND"/>
+	<instrument isin="LU0323578657" ticker="" name="Flossbach von Storch SICAV - Multiple Opportunities" country="LUX" symbolType="FUND"/>
+	<instrument isin="DE0009848119" ticker="" name="DWS Top Dividende" country="DE" symbolType="FUND"/>
+	<instrument isin="DE0008476250" ticker="" name="Kapital Plus" country="DE" symbolType="FUND"/>
+	<instrument isin="DE0009766964" ticker="" name="LBBW Renten Euro Flex" country="DE" symbolType="FUND"/>
+	<instrument isin="DE000LS9BLR4" ticker="" name="Endloszertifikat auf Wikifolio-Index Euro am Sonntag" country="DE" symbolType="CERT"/>
+	<instrument isin="CA46433H1029" ticker="FIE" name="iShares Canadian Financial Monthly Income ETF" country="CA" symbolType="ETF"/>
+	<instrument isin="CA46432H1038" ticker="XQB" name="iShares Core High Quality Canadian Bond Index ETF" country="CA" symbolType="ETF"/>	
+	<instrument isin="CA46433E1097" ticker="CYH" name="iShares Global Monthly Dividend Index ETF" country="CA" symbolType="ETF"/>	
+	<instrument isin="CA46432G1054" ticker="CHB" name="iShares U.S. High Yield Fixed Income Index ETF" country="CA" symbolType="ETF"/>
+	<instrument isin="CA46433F1062" ticker="CDZ" name="iShares S&amp;P/TSX Canadian Dividend Aristocrats Index ETF" country="CA" symbolType="ETF"/>	
+	<instrument isin="CA05581A1030" ticker="ZDH" name="BMO International Dividend Hedged to CAD ETF" country="CA" symbolType="ETF"/>
+</instruments>
